@@ -320,4 +320,7 @@ Your Android app will:
 • Same behavior as Python
 • Assistive touch using hand gestures
 
-This is actually an AI accessibility control system — a serious project.
+This is actually an AI accessibility control system — a serious project. 
+
+Get the all files from here https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe.git 
+
